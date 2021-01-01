@@ -3,11 +3,11 @@ A piece of art - 3D printed cubes, semitransparent, arranged in pattern and LED 
 
 48 cubes, back light LEDs, slowly changing their base color, fading in and out, giving a nice, non distracting back ground mood setting for a room
 
-![running (2)](images\running (2).jpg)
+![running (2)](images/running%20(2).jpg)
 
 cycling through the color wheel every 15min (or so)
 
-![running](images\running.jpg)
+![running](images/running.jpg)
 
 ## Material
 
@@ -48,7 +48,7 @@ generated with Processing to reflect a [Pythagorean tiling](https://en.wikipedia
 
 laser cutter to cut from wood. The cubes have an edge length of 31.5mm, the squares are cut to be 31.7mm (just check for laser cutter file if dpi was set correctly)
 
-![backplane](hardware\backplane\backplane.png)
+![backplane](hardware/backplane/backplane.png)
 
 ### Cubes
 
@@ -60,7 +60,7 @@ A did a lot of experimenting for the correct look, since they are semitransparen
 * If available, use a textured sheet on your printer, this gives a better "frosted glass" look
 * 3 cubes fit on a Prusa Mini if you rotated them as shown here
 
-![three on a prusa mini](hardware\cube\three on a prusa mini.png)
+![three on a prusa mini](hardware/cube/three on a prusa mini.png)
 
 Once printed, just fold them. They should snap together and are held in place by the back plate (snug fit)
 
@@ -68,6 +68,6 @@ Once printed, just fold them. They should snap together and are held in place by
 
 Use lots of hot glue
 
-![assembly](images\assembly.jpg)
+![assembly](images/assembly.jpg)
 
-![back side](images\back side.jpg)
+![back side](images/back%20side.jpg)
