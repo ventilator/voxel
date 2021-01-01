@@ -60,7 +60,7 @@ A did a lot of experimenting for the correct look, since they are semitransparen
 * If available, use a textured sheet on your printer, this gives a better "frosted glass" look
 * 3 cubes fit on a Prusa Mini if you rotated them as shown here
 
-![three on a prusa mini](hardware/cube/three on a prusa mini.png)
+![three on a prusa mini](hardware/cube/three%20on%20a%20prusa%20mini.png)
 
 Once printed, just fold them. They should snap together and are held in place by the back plate (snug fit)
 
